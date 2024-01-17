@@ -1,2 +1,3 @@
 # Blender_Python_Scripts
-a place for blender python scripts
+A python script to create a tetrahedron in Blender.
+
